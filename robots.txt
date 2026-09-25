@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://har-2026.github.io/waxehe90/sitemap.xml
